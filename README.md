@@ -1,4 +1,5 @@
 # Cisco Packet Tracer: Dual-Subnet Network Topology
+![Network Topology](topology.png)
 
 This project demonstrates a fully configured dual-subnet network architecture designed and simulated using **Cisco Packet Tracer**.
 
